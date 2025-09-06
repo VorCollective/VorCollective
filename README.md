@@ -22,12 +22,10 @@ I’m excited to share my journey through my projects and studies, and I love ex
 
 As a student, I’m focusing on foundational and advanced skills to excel in the world of data science, such as:
 
-Data Preprocessing: Cleaning and transforming raw data into useful insights
+> Data Preprocessing: Cleaning and transforming raw data into useful insights
 
-Exploratory Data Analysis (EDA): Identifying trends, patterns, and anomalies in datasets
+> Exploratory Data Analysis (EDA): Identifying trends, patterns, and anomalies in datasets
 
-Machine Learning Algorithms: Building predictive models (classification, regression, clustering)
+> Machine Learning Algorithms: Building predictive models (classification, regression, clustering)
 
-
-
-Visualization Tools: Creating clear and insightful data visualizations with Matplotlib, Seaborn, Power BI, and Tableau
+> Visualization Tools: Creating clear and insightful data visualizations with Matplotlib, Seaborn, Power BI, and Tableau
